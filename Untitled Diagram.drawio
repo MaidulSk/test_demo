@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-30T06:55:11.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="Zz4gz4GiyrWtFx8g5GrS" version="15.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-30T07:02:04.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="u3JfaA7a299JJFZ_C0V-" version="15.6.2" type="github" pages="2">
   <diagram id="wUXuVK7lzeDzBUgEKoNh" name="Page-2">
     <mxGraphModel dx="934" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -145,6 +145,29 @@
             <mxPoint x="603.02" y="1696.0100000000002" as="sourcePoint" />
             <mxPoint x="601.97" y="1630" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vULKzWvLirWww_7RFDkt-8" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;PWA for make any project to apps&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Flutter for make any project to apps&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;Here we make any project one time and use different device.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;Our Backend will be always Nodejs &amp;amp; Fronted will be Nextjs&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;align=left;" vertex="1" parent="37hczFDKBGqgZMmw7hRU-1">
+          <mxGeometry x="150" y="1970" width="370" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="vULKzWvLirWww_7RFDkt-9" value="Now Charges For creating project " style="swimlane;fontSize=14;strokeWidth=2;align=left;fillColor=#d5e8d4;strokeColor=#82b366;startSize=23;gradientColor=#97d077;" vertex="1" parent="37hczFDKBGqgZMmw7hRU-1">
+          <mxGeometry x="160" y="2210" width="350" height="190" as="geometry">
+            <mxRectangle x="265" y="1140" width="350" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vULKzWvLirWww_7RFDkt-10" value="&lt;b&gt;Web Application&amp;nbsp; =&amp;gt;&lt;/b&gt;&amp;nbsp;&lt;b&gt;60,000&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="vULKzWvLirWww_7RFDkt-9">
+          <mxGeometry x="20" y="40" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vULKzWvLirWww_7RFDkt-13" value="&lt;b&gt;Server Coast&amp;nbsp; =&amp;gt;&lt;/b&gt;&amp;nbsp;&lt;b&gt;40,000&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="vULKzWvLirWww_7RFDkt-9">
+          <mxGeometry x="20" y="70" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vULKzWvLirWww_7RFDkt-14" value="&lt;b&gt;Company Coast&amp;nbsp; =&amp;gt;&lt;/b&gt;&amp;nbsp; &amp;nbsp;5&lt;b&gt;0,000&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="vULKzWvLirWww_7RFDkt-9">
+          <mxGeometry x="20" y="100" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vULKzWvLirWww_7RFDkt-15" value="&lt;b&gt;Total&amp;nbsp; =&amp;gt;&lt;/b&gt;&amp;nbsp; &amp;nbsp;1, 5&lt;b&gt;0,000&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="vULKzWvLirWww_7RFDkt-9">
+          <mxGeometry x="20" y="130" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vULKzWvLirWww_7RFDkt-16" value="&lt;b&gt;Now amount will be reduce previous project coast&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="vULKzWvLirWww_7RFDkt-9">
+          <mxGeometry x="10" y="160" width="300" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
