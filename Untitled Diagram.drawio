@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-30T06:06:38.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="k1kDJXFcvmMZt0NpwhnP" version="15.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-30T06:11:10.724Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="NGbM6Oo_ty5n5vOPc5ga" version="15.6.2" type="github" pages="2">
   <diagram id="yt76_bcJkmnAl7NNn21-" name="Page-1">
     <mxGraphModel dx="934" dy="2593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,8 +63,8 @@
       <root>
         <mxCell id="37hczFDKBGqgZMmw7hRU-0" />
         <mxCell id="37hczFDKBGqgZMmw7hRU-1" parent="37hczFDKBGqgZMmw7hRU-0" />
-        <mxCell id="23XzPQEsiqmdK9bYlkSw-0" value="&lt;b&gt;A Part of Consume able any Product , Our Target is find out the consume able to create a Ecommerce&amp;nbsp;Application&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=17;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="37hczFDKBGqgZMmw7hRU-1">
-          <mxGeometry x="10" y="10" width="1160" height="60" as="geometry" />
+        <mxCell id="23XzPQEsiqmdK9bYlkSw-0" value="&lt;b&gt;A Part of Consume able any Product , Our Target is find out the data consume able to create a Ecommerce&amp;nbsp;Application&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=17;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="37hczFDKBGqgZMmw7hRU-1">
+          <mxGeometry x="10" y="10" width="1230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="23XzPQEsiqmdK9bYlkSw-1" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#fad7ac;strokeColor=#b46504;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;fontSize=17;" vertex="1" parent="37hczFDKBGqgZMmw7hRU-1">
           <mxGeometry x="250" y="222" width="100" height="70" as="geometry" />
@@ -93,8 +93,11 @@
         <mxCell id="23XzPQEsiqmdK9bYlkSw-9" value="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;IOS Application&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=17;strokeWidth=2;strokeColor=none;" vertex="1" parent="37hczFDKBGqgZMmw7hRU-1">
           <mxGeometry x="510" y="320" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="23XzPQEsiqmdK9bYlkSw-10" value="&lt;span style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;Mobile Browser&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=17;strokeWidth=2;strokeColor=none;" vertex="1" parent="37hczFDKBGqgZMmw7hRU-1">
+        <mxCell id="23XzPQEsiqmdK9bYlkSw-10" value="&lt;span style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;Mobile Browser Means Responsive&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=17;strokeWidth=2;strokeColor=none;" vertex="1" parent="37hczFDKBGqgZMmw7hRU-1">
           <mxGeometry x="370" y="440" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23XzPQEsiqmdK9bYlkSw-11" value="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li&gt;&amp;nbsp;We choose our consume able platform is desktop , web, android, ios, mobile&amp;nbsp; browser means response.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=2;align=left;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="37hczFDKBGqgZMmw7hRU-1">
+          <mxGeometry x="680" y="210" width="290" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
