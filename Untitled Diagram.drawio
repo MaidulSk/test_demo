@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-30T06:42:33.470Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="o-TzVjd-QBpqLuTppnxz" version="15.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-30T06:47:13.744Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="eQiX4pXnLx4yeSDcopgK" version="15.6.2" type="github" pages="2">
   <diagram id="yt76_bcJkmnAl7NNn21-" name="Page-1">
     <mxGraphModel dx="934" dy="2593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -111,7 +111,7 @@
           <mxGeometry x="250" y="90" width="450" height="170" as="geometry" />
         </mxCell>
         <mxCell id="23XzPQEsiqmdK9bYlkSw-16" value="Charges For creating project Different platform" style="swimlane;fontSize=14;strokeWidth=2;align=left;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" vertex="1" parent="37hczFDKBGqgZMmw7hRU-1">
-          <mxGeometry x="265" y="1140" width="350" height="220" as="geometry">
+          <mxGeometry x="265" y="1140" width="350" height="250" as="geometry">
             <mxRectangle x="265" y="1140" width="350" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -132,6 +132,9 @@
         </mxCell>
         <mxCell id="23XzPQEsiqmdK9bYlkSw-24" value="&lt;b&gt;Total&amp;nbsp; =&amp;gt;&lt;/b&gt;&amp;nbsp; &amp;nbsp;2, 6&lt;b&gt;0,000&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="23XzPQEsiqmdK9bYlkSw-16">
           <mxGeometry x="50" y="190" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="23XzPQEsiqmdK9bYlkSw-32" value="&lt;b&gt;These amount is so large and make to long time&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="23XzPQEsiqmdK9bYlkSw-16">
+          <mxGeometry x="15" y="220" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="23XzPQEsiqmdK9bYlkSw-25" value="&lt;div&gt;&lt;b style=&quot;font-size: 12px&quot;&gt;Consumable and&lt;/b&gt;&lt;/div&gt;&lt;b style=&quot;font-size: 12px&quot;&gt;Choose Platform&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;align=center;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="37hczFDKBGqgZMmw7hRU-1">
           <mxGeometry x="385" y="400" width="120" height="80" as="geometry" />
@@ -162,9 +165,12 @@
         </mxCell>
         <mxCell id="23XzPQEsiqmdK9bYlkSw-30" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;strokeWidth=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="37hczFDKBGqgZMmw7hRU-1" target="23XzPQEsiqmdK9bYlkSw-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="640" as="sourcePoint" />
+            <mxPoint x="440" y="640" as="sourcePoint" />
             <mxPoint x="441" y="500" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="23XzPQEsiqmdK9bYlkSw-31" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Now We create the project two type platform to reduce coast and time&lt;/font&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;strokeWidth=2;align=center;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="37hczFDKBGqgZMmw7hRU-1">
+          <mxGeometry x="40" y="1450" width="890" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
