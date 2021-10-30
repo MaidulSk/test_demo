@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-30T09:25:33.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="eA8BQewDh-CTZPfSGkIz" version="15.6.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-10-30T09:32:11.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="xuyNmEIhXpgJwuwSQtPG" version="15.6.2" type="github" pages="4">
   <diagram id="NffPUh59S6uqhCXTNWMq" name="Page-4">
     <mxGraphModel dx="934" dy="1493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -51,6 +51,9 @@
             <mxPoint x="320" y="-490.5" as="sourcePoint" />
             <mxPoint x="510" y="-490.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pI2o-hIhPRR5ghkNBgKD-16" value="&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;jokon login button e click kore client tkono nextjs er throug diye id, password direct us ke patai.&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;direct us er ekmatro permission ache database e dokar&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;directus abar dekbe nextjs amar authenticate to mane&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;amar token niye asche to. jdo id, password and&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;token match hoy tokon database e process korabe&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;jodi ekti match na hoy tahole database e process korabena.&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;jodi match hoy tokon database patabe and tar por data ta client er kache patabena data ta nextjs er kache asbe directus er through diye.&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;tar por nextjs html template banabe on the fly and id password bosiye debe.&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;strokeColor=#666666;strokeWidth=2;fillColor=#f5f5f5;gradientColor=#b3b3b3;align=center;" vertex="1" parent="pI2o-hIhPRR5ghkNBgKD-1">
+          <mxGeometry x="110" y="-230" width="380" height="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
