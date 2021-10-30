@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-30T06:30:04.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="JGP5zx8wwTsok3gUKoA3" version="15.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-30T06:30:36.150Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="bwik7C9wxD6Po0keyGkh" version="15.6.2" type="github" pages="2">
   <diagram id="yt76_bcJkmnAl7NNn21-" name="Page-1">
     <mxGraphModel dx="934" dy="2593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -96,7 +96,7 @@
         <mxCell id="23XzPQEsiqmdK9bYlkSw-10" value="&lt;span style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;Mobile Browser Means Responsive&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=17;strokeWidth=2;strokeColor=none;" vertex="1" parent="37hczFDKBGqgZMmw7hRU-1">
           <mxGeometry x="370" y="560" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="23XzPQEsiqmdK9bYlkSw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;strokeWidth=3;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" edge="1" parent="37hczFDKBGqgZMmw7hRU-1" source="23XzPQEsiqmdK9bYlkSw-11">
+        <mxCell id="23XzPQEsiqmdK9bYlkSw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="37hczFDKBGqgZMmw7hRU-1" source="23XzPQEsiqmdK9bYlkSw-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="825" y="490" as="targetPoint" />
           </mxGeometry>
@@ -108,7 +108,7 @@
           <mxGeometry x="680" y="488" width="290" height="102" as="geometry" />
         </mxCell>
         <mxCell id="23XzPQEsiqmdK9bYlkSw-15" value="&amp;nbsp; &amp;nbsp; &lt;b&gt;Consume able is the Which platform based our project&lt;/b&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;Desktop Application With responsive or not&amp;nbsp;&lt;/li&gt;&lt;li&gt;Web Application&lt;/li&gt;&lt;li&gt;Mobile Application&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;If we want to create any blog then our consume able is Desktop&lt;/li&gt;&lt;li&gt;If we want to create any Ecommerce then our consume able is&amp;nbsp;&lt;/li&gt;&lt;li&gt;Desktop, Web Application &amp;amp; Mobile Application&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="37hczFDKBGqgZMmw7hRU-1">
-          <mxGeometry x="250" y="80" width="450" height="170" as="geometry" />
+          <mxGeometry x="250" y="90" width="450" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
