@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-30T06:30:36.150Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="bwik7C9wxD6Po0keyGkh" version="15.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-30T06:42:33.470Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="o-TzVjd-QBpqLuTppnxz" version="15.6.2" type="github" pages="2">
   <diagram id="yt76_bcJkmnAl7NNn21-" name="Page-1">
     <mxGraphModel dx="934" dy="2593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -98,17 +98,73 @@
         </mxCell>
         <mxCell id="23XzPQEsiqmdK9bYlkSw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="37hczFDKBGqgZMmw7hRU-1" source="23XzPQEsiqmdK9bYlkSw-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="825" y="490" as="targetPoint" />
+            <mxPoint x="440" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="23XzPQEsiqmdK9bYlkSw-11" value="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li&gt;&amp;nbsp;We choose our consume able platform is desktop , web, android, ios, mobile&amp;nbsp; browser means response for ecommerce project&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=2;align=left;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="37hczFDKBGqgZMmw7hRU-1">
-          <mxGeometry x="680" y="330" width="290" height="90" as="geometry" />
+          <mxGeometry x="295" y="820" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="23XzPQEsiqmdK9bYlkSw-14" value="&lt;ul&gt;&lt;li&gt;After decide our target&lt;/li&gt;&lt;li&gt;Now decide your preferable platform to make these type application&lt;br&gt;&lt;/li&gt;&lt;li&gt;Stack stand for choose the preferable platform for any project&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;align=left;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="37hczFDKBGqgZMmw7hRU-1">
-          <mxGeometry x="680" y="488" width="290" height="102" as="geometry" />
+          <mxGeometry x="295" y="978" width="290" height="102" as="geometry" />
         </mxCell>
         <mxCell id="23XzPQEsiqmdK9bYlkSw-15" value="&amp;nbsp; &amp;nbsp; &lt;b&gt;Consume able is the Which platform based our project&lt;/b&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;Desktop Application With responsive or not&amp;nbsp;&lt;/li&gt;&lt;li&gt;Web Application&lt;/li&gt;&lt;li&gt;Mobile Application&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;If we want to create any blog then our consume able is Desktop&lt;/li&gt;&lt;li&gt;If we want to create any Ecommerce then our consume able is&amp;nbsp;&lt;/li&gt;&lt;li&gt;Desktop, Web Application &amp;amp; Mobile Application&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="37hczFDKBGqgZMmw7hRU-1">
           <mxGeometry x="250" y="90" width="450" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="23XzPQEsiqmdK9bYlkSw-16" value="Charges For creating project Different platform" style="swimlane;fontSize=14;strokeWidth=2;align=left;fillColor=#f8cecc;strokeColor=#b85450;startSize=23;" vertex="1" parent="37hczFDKBGqgZMmw7hRU-1">
+          <mxGeometry x="265" y="1140" width="350" height="220" as="geometry">
+            <mxRectangle x="265" y="1140" width="350" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23XzPQEsiqmdK9bYlkSw-17" value="&lt;b&gt;Web Application&amp;nbsp; =&amp;gt;&lt;/b&gt; &lt;b&gt;20,000&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="23XzPQEsiqmdK9bYlkSw-16">
+          <mxGeometry x="20" y="40" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="23XzPQEsiqmdK9bYlkSw-18" value="&lt;b&gt;IOS Application&amp;nbsp; =&amp;gt;&lt;/b&gt; &lt;b&gt;1,10,000&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="23XzPQEsiqmdK9bYlkSw-16">
+          <mxGeometry x="20" y="70" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="23XzPQEsiqmdK9bYlkSw-19" value="&lt;b&gt;Android Application&amp;nbsp; =&amp;gt;&lt;/b&gt;&amp;nbsp;&lt;b&gt;60,000&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="23XzPQEsiqmdK9bYlkSw-16">
+          <mxGeometry x="20" y="100" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="23XzPQEsiqmdK9bYlkSw-20" value="&lt;b&gt;Server Coast&amp;nbsp; =&amp;gt;&lt;/b&gt;&amp;nbsp;2&lt;b&gt;0,000&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="23XzPQEsiqmdK9bYlkSw-16">
+          <mxGeometry x="45" y="130" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="23XzPQEsiqmdK9bYlkSw-23" value="&lt;b&gt;Company Coast&amp;nbsp; =&amp;gt;&lt;/b&gt;&amp;nbsp; &amp;nbsp;5&lt;b&gt;0,000&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="23XzPQEsiqmdK9bYlkSw-16">
+          <mxGeometry x="30" y="160" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="23XzPQEsiqmdK9bYlkSw-24" value="&lt;b&gt;Total&amp;nbsp; =&amp;gt;&lt;/b&gt;&amp;nbsp; &amp;nbsp;2, 6&lt;b&gt;0,000&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="23XzPQEsiqmdK9bYlkSw-16">
+          <mxGeometry x="50" y="190" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="23XzPQEsiqmdK9bYlkSw-25" value="&lt;div&gt;&lt;b style=&quot;font-size: 12px&quot;&gt;Consumable and&lt;/b&gt;&lt;/div&gt;&lt;b style=&quot;font-size: 12px&quot;&gt;Choose Platform&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;align=center;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="37hczFDKBGqgZMmw7hRU-1">
+          <mxGeometry x="385" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="23XzPQEsiqmdK9bYlkSw-26" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;strokeWidth=1;" edge="1" parent="37hczFDKBGqgZMmw7hRU-1" target="23XzPQEsiqmdK9bYlkSw-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="380" as="sourcePoint" />
+            <mxPoint x="400" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23XzPQEsiqmdK9bYlkSw-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;strokeWidth=1;exitX=0;exitY=0.364;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="37hczFDKBGqgZMmw7hRU-1" source="23XzPQEsiqmdK9bYlkSw-2" target="23XzPQEsiqmdK9bYlkSw-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="367.51" as="sourcePoint" />
+            <mxPoint x="541.4428389656478" y="400.000214083567" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23XzPQEsiqmdK9bYlkSw-28" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;strokeWidth=1;" edge="1" parent="37hczFDKBGqgZMmw7hRU-1" target="23XzPQEsiqmdK9bYlkSw-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="333.56" y="521" as="sourcePoint" />
+            <mxPoint x="385.00283896564775" y="553.490214083567" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23XzPQEsiqmdK9bYlkSw-29" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;strokeWidth=1;" edge="1" parent="37hczFDKBGqgZMmw7hRU-1" target="23XzPQEsiqmdK9bYlkSw-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="520" as="sourcePoint" />
+            <mxPoint x="520.0028389656477" y="582.490214083567" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23XzPQEsiqmdK9bYlkSw-30" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;strokeWidth=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="37hczFDKBGqgZMmw7hRU-1" target="23XzPQEsiqmdK9bYlkSw-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="640" as="sourcePoint" />
+            <mxPoint x="441" y="500" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
